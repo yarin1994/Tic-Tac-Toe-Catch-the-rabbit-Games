@@ -1,0 +1,17 @@
+Chen Gutman 205616147
+Yarin Mizrahi 205663917
+
+Player- green
+Computer- red
+
+Tic Tac Toe :
+select option in range 1 to 9
+
+Catch The Rabbit:
+yoou have 4 option :
+1.up
+2.right
+3.down
+4.left
+
+enjoy your game :))
